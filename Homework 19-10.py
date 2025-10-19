@@ -16,6 +16,7 @@ orders = []
 #
 # this is a new comment
 
+# this is skittle's updates
 
 while True:
     choice = input("💖☕✨ What would you like to order? ").strip()
