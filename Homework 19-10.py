@@ -13,11 +13,6 @@ print("-" * 40)
 orders = []
 
 # .strip() = remove any weird whitespace 
-#
-# this is a new comment
-
-# this is skittle's updates
-# this is another sktitles updates 
 
 while True:
     choice = input("💖☕✨ What would you like to order? ").strip()
