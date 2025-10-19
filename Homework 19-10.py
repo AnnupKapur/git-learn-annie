@@ -12,7 +12,8 @@ print("-" * 40)
 # Step 3: Take user orders
 orders = []
 
-# .strip() = remove any weird whitespace 
+# this is a normal comment in vscode
+
 
 while True:
     choice = input("💖☕✨ What would you like to order? ").strip()
