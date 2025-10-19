@@ -13,6 +13,8 @@ print("-" * 40)
 orders = []
 
 # .strip() = remove any weird whitespace 
+#
+# this is a new comment
 
 
 while True:
